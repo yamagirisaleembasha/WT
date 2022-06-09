@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>R.V.R. & J.C.College of Engineering Infrastructure</title>
+</head>
+<body>
+<h1 style="color:green;text-align:center">
+	R.V.R. & J.C.College of Engineering Infrastructure
+</h1>
+<center><table height="100%" width="100%">
+	<tr >
+		<td style="width:600px;background-color:lightgreen;">
+			<h1><u>courses</u></h1>
+			<h2>B.Tech.,<h2>
+			<h4>1. Chemical Engineering<br>
+ 		    	    2. Civil Engineering<br>
+ 		    	    3. Computer Science & Business Systems<br>
+	 	    	    4. Computer Science & Engineering<br>
+ 		            5. Computer Science & Engineering (Artificial Intelligence & Machine Learning)<br>
+ 		            6. Computer Science & Engineering (Data Science)<br>
+ 		            7. Computer Science & Engineering (Internet of Things)<br>
+  		            8. Electrical & Electronics Engineering<br>
+ 		            9. Electronics & Communication Engineering<br>
+		            10. Information Technology<br>
+		            11. Mechanical Engineering</h4>
+		       	<h2>M.Tech<br>
+			    MBA<br>
+			    MCA<br>
+    			</h2>
+ 		</td>
+		<td style="background-color:yellow;">
+			<h1><u>facilities<br></u></h1>
+			<h3>1.Central Library.<br>
+			    2.Departmental Library.<br>
+			    3.Men's Hostel.<br>
+			    4.Girl's Hostel.<br>
+			    5.Canteen.<br>
+			    6.Medical Facilities.<br>
+			    7.Open Air Theater.<br>
+			    8.NCC.<br>
+			    9.NSS.<br>
+			    10.Computer Centers.<br>
+		 	    11.E-Classroom.<br>
+			    12.Stores.<br>
+			    13.Seminar Halls.<br>
+			    14.Sports.<br>
+			</h3>
+			<br>
+			<br>
+			<br>
+			<br>
+		</td>
+		<td style="background-color:pink;">
+			<h1><u>Buildings<br></u></h1>
+			<h3>1.Cyber Block.<br>
+			    2.Digital Block.<br>
+			    3.Hi-Tech Block.<br>
+			    4.Main Block.<br>
+			    5.Decinal Block.<br>
+			    6.Silver Jubilee Block.<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			</h3>
+		</td>
+	</tr>
+</center></table>
+</body>
+</html>
